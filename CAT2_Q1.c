@@ -1,4 +1,7 @@
-/*i)An array is a collection of elements of the same data type,stored in contiguous memory locations 
+/*NAME:VICTOR BARAKA
+REG:PA106/G/28775/25
+DESCRIPTION:A program to print a 2D array in a nested for loop
+i)An array is a collection of elements of the same data type,stored in contiguous memory locations 
 ii declare and initialize  a 2D array named scores
   int scores[2][2]={
               {65,92},
